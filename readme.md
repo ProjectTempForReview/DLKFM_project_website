@@ -12,8 +12,9 @@ https://drive.google.com/file/d/1-voX6dJtIb1Dbq9_m2Ed9xvPhCjM_FLo/view?usp=shari
 
 
 For MSCOCO, we are using 2014 train and val, which is here:
-http://cocodataset.org/#download
-we also provide the txt file about all 6k images sampled for the tesing of this paper.
+http://cocodataset.org/#download.
+
+We also provide the txt file about all 6k images sampled for the tesing of this paper.
 
 ## Code and checkpoints
 
