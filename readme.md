@@ -9,6 +9,9 @@
 The Google Map and Google Earth data used for both training and tesing can be downloaded here: 
 https://drive.google.com/file/d/1-voX6dJtIb1Dbq9_m2Ed9xvPhCjM_FLo/view?usp=sharing
 
+
 For MSCOCO, we are using 2014 train and val, which is here:
 
 http://cocodataset.org/#download
+
+we also provide the txt file about all 6k images sampled for the tesing of this paper.
